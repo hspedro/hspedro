@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm Pedro. I am a Software Engineer from 🇧🇷.
+
+I work at [ProFUSION](github.com/profusion), solving complex challenges using cool technologies.
 
 <!--
 **hspedro/hspedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
