@@ -1,3 +1,4 @@
+### Hi There :wave:
 I'm Pedro. I am a Software Engineer from 🇧🇷.
 
 I work at [ProFUSION](github.com/profusion), solving complex challenges using cool technologies.
