@@ -1,8 +1,7 @@
 ### Hi There :wave:
 I'm Pedro. I am a Software Engineer from 🇧🇷.
 
-I work at [Unico](github.com/acesso-io), helping to lead the digital transformation through digital identity. Since I've joined unico,
-most of my github contributions remains on my profile with company email: [@hs-pedro](https://github.com/hs-pedro)
+I work at [Unico](github.com/acesso-io), helping to lead the digital transformation through digital identity.
 
 <!--
 **hspedro/hspedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
