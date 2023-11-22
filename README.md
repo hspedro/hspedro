@@ -2,7 +2,7 @@
 I'm Pedro, Software Engineer from 🇧🇷. Passionate about how to solve real-world problems using computer science.
 My snippets are mostly regarding my everlasting studies, building up knowledge to empower my craft. 
 
-Working at [ProFUSION](https://github.com/profusion).
+Working at [Wildlife Studios](https://github.com/topfreegames).
 
 
 🌱 Currently reading:
